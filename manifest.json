@@ -1,0 +1,17 @@
+{
+    "name": "Cafeteria Qro",
+    "short_name": "Cafe",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./assets/img/icon.jpg",
+            "type": "image/jpg",
+            "sizes": "225x225"
+        }
+    ]
+}
